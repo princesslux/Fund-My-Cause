@@ -24,3 +24,6 @@ contracts/crowdfund/test_snapshots/
 contracts/registry/test_snapshots/
 .claude/worktrees/
 **/test_snapshots/coverage/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
